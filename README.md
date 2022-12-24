@@ -1,3 +1,8 @@
+Wilson Ap. Santos.
+
+
+Curto Arduino, ESP e robótica como hobby e forma de estudo e aplicação.
+
 - 👋 Oi, Sou @aparecidowas - Wilson Ap. Santos
 - 👀 Estou interessado em Front End e Python. Assim como Power BI e Excel. 
 - 🌱 Estou atualmente aprendendo HTML, CSS, JS e Python.
